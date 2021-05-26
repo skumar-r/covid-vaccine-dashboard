@@ -71,7 +71,7 @@ const IndexPage = () => {
     <Layout>
       <Seo title="Dashboard" />         
       <StaticImage
-        src="../images/covid-19-anim.gif"
+        src="../images/stop-covid19-min.png"
         width={300}
         quality={95}
         formats={["AUTO", "WEBP", "AVIF"]}
